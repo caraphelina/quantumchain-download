@@ -7,8 +7,7 @@ pertandinganmu** — lengkap dengan asisten strategi, mode overlay, profil ganda
 kamus cadangan puluhan ribu kata, dan tema yang bisa diganti (gelap / terang /
 sakura).
  
-> Token hanya bisa didapatkan dari:
-> **Roblox:** `blondesigma666`  ·  **Discord:** `caraphelina666`
+
 > Kamus ini **tidak diperjualbelikan**.
  
 ---
