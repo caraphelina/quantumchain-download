@@ -77,18 +77,18 @@ kata yang kamu ketik**.
 
 ---
 
-## 🆕 Yang Baru di v1.4
+# Quantum Chain v1.7
 
-- **Kata DiCoba selalu di paling bawah** — kata cadangan yang kamu tandai DiCoba
-  kini selalu berada di bagian paling bawah daftar, tidak lagi ikut berpindah ke
-  atas saat huruf awalan sudah terindeks penuh.
-- **Lebih stabil** — aplikasi tidak lagi bisa tertutup sendiri karena efek teks
-  "✓ +1", dan tidak lagi gagal dibuka bila modul opsional (mouse/keyboard) sesaat
-  tak bisa dimuat (mis. file sementara terkunci antivirus).
+*Rilis — Juni 2026*
 
-> **v1.3** menghadirkan **Cari Jebakan** (per-mode), **Analisa Match**, profil
-> ganda, kamus cadangan diperluas, update otomatis, Discord Rich Presence, Mode
-> Grafis, dan banyak lagi.
+## Yang baru
+
+- **Mode Awalan + Akhiran** — saat meng-index dengan tombol **Home**, halaman tidak lagi berpindah. Kamu tetap pada awalan/akhiran yang sama, dan kata yang sudah di-index langsung hilang dari daftar.
+- **Stabilitas & kebersihan** — berbagai perbaikan kestabilan serta pembersihan proses di latar.
+
+## Cara memperbarui
+
+Aplikasi akan menampilkan notifikasi otomatis ketika versi baru tersedia — cukup ikuti petunjuknya untuk memasang dan memulai ulang. Bisa juga mengunduh `.exe` terbaru secara manual dari halaman **Releases**.
 
 Riwayat lengkap ada di aplikasi: **Informasi Update → Lihat Changelog**.
 
