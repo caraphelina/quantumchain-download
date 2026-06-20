@@ -83,14 +83,10 @@ kata yang kamu ketik**.
 - **Info bar baru** — progres pencarian kini menampilkan **persentase selesai**
   (donut) plus ikon **Terindex / Belum / Total**, dan terupdate **langsung**
   setiap kamu push index.
-- **Keamanan data** — seluruh database kata (kamus utama, Kamus Cadangan, dan
-  cache online) sekarang **terenkripsi**, jadi tidak bisa disalin langsung dari
-  file.
 
 🛠️ **Penyempurnaan**
 - Pintasan **Shift+Home**: hapus kata utama paling atas.
 - Penghapusan kata kini **instan** (tanpa jeda kedip).
-- Perbaikan **OCR** untuk huruf berspasi lebar.
 - Penyempurnaan penghitung mode **spam-akhiran**.
   
 ---
