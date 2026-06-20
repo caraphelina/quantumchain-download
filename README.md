@@ -17,7 +17,6 @@ sakura).
 2. Unduh file **`QuantumChain.exe`** dari rilis terbaru.
 3. Taruh di satu folder khusus (mis. `Documents\QuantumChain\`), lalu **klik dua
    kali** untuk menjalankan — **tanpa install**.
-4. Masukkan **token** yang kamu dapat (lihat kontak di atas) untuk login.
 
 **Catatan:**
 - Saat pertama dijalankan, folder `data/` & `backup/` dibuat otomatis di samping
