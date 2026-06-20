@@ -77,23 +77,23 @@ kata yang kamu ketik**.
 
 ---
 
-# Quantum Chain v1.7
+## Quantum Chain 1.8
 
-*Rilis — Juni 2026*
+✨ **Baru**
+- **Info bar baru** — progres pencarian kini menampilkan **persentase selesai**
+  (donut) plus ikon **Terindex / Belum / Total**, dan terupdate **langsung**
+  setiap kamu push index.
+- **Keamanan data** — seluruh database kata (kamus utama, Kamus Cadangan, dan
+  cache online) sekarang **terenkripsi**, jadi tidak bisa disalin langsung dari
+  file.
 
-## Yang baru
-
-- **Mode Awalan + Akhiran** — saat meng-index dengan tombol **Home**, halaman tidak lagi berpindah. Kamu tetap pada awalan/akhiran yang sama, dan kata yang sudah di-index langsung hilang dari daftar.
-- **Stabilitas & kebersihan** — berbagai perbaikan kestabilan serta pembersihan proses di latar.
-
-## Cara memperbarui
-
-Aplikasi akan menampilkan notifikasi otomatis ketika versi baru tersedia — cukup ikuti petunjuknya untuk memasang dan memulai ulang. Bisa juga mengunduh `.exe` terbaru secara manual dari halaman **Releases**.
-
-Riwayat lengkap ada di aplikasi: **Informasi Update → Lihat Changelog**.
-
+🛠️ **Penyempurnaan**
+- Pintasan **Shift+Home**: hapus kata utama paling atas.
+- Penghapusan kata kini **instan** (tanpa jeda kedip).
+- Perbaikan **OCR** untuk huruf berspasi lebar.
+- Penyempurnaan penghitung mode **spam-akhiran**.
+  
 ---
-
 *Dibuat untuk komunitas Sambung Kata Roblox.*
 ---
 
