@@ -1,11 +1,10 @@
-[Uploading README.md…]()
 <div align="center">
 
 # 🟣 Quantum Chain
 
 **Asisten cerdas untuk game Sambung Kata (Bahasa Indonesia)**
 
-![Versi](https://img.shields.io/badge/versi-2.0-6C63FF)
+![Versi](https://img.shields.io/badge/versi-2.1-6C63FF)
 ![Platform](https://img.shields.io/badge/platform-Windows-44475A)
 ![Kamus](https://img.shields.io/badge/kamus-KBBI-3DDC84)
 
@@ -31,9 +30,9 @@ Quantum Chain membantumu menemukan kata dengan **cepat** saat bermain **Sambung 
 - 📚 **Kamus Cadangan (KBBI)** — ribuan kata tambahan muncul otomatis saat koleksimu habis.
 - 🗃️ **Indeks & farming kosakata** — kumpulkan kata ke "vault"-mu, lihat **Saran Farm**, target harian, dan rekor.
 - 📥 **Tabel "Sudah Dicoba"** — singkirkan kata yang tak terpakai **tanpa** menghapusnya permanen.
-- 🏆 **Mode Pertandingan** — timer match, hitung kata, dan **Analisa Match** (pola lawan).
+- 🏆 **Mode Pertandingan** — timer match, hitung kata, dan **Analisa Match** (rekap & statistik pertandinganmu).
 - 🔔 **Notifikasi toast** — perayaan (target, rekor, LETHAL, menang) tampil ringkas, tidak mengganggu.
-- 🧰 **Alat bantu** — Command Palette (`Ctrl+K`), OCR area, mode Overlay (selalu di atas), dan banyak profil.
+- 🧰 **Alat bantu** — Command Palette (`Ctrl+K`), mode Overlay (selalu di atas), dan banyak profil.
 - 🎨 **3 tema** — Dark, Light, Sakura.
 - 📱 **Responsif** — nyaman dipakai di layar kecil & split-screen.
 
@@ -78,15 +77,17 @@ Quantum Chain membantumu menemukan kata dengan **cepat** saat bermain **Sambung 
 
 **Dark** (default), **Light**, dan **Sakura** — ganti kapan saja lewat sidebar.
 
-## 🆕 Baru di v2.0
+## 🆕 Baru di v2.1
 
-- Tabel **Sudah Dicoba** (Shift+Home / Shift+klik-kanan tak lagi menghapus permanen)
-- Navigasi huruf **awalan** dengan `Ctrl+←` / `Ctrl+→`
-- Sort terpanjang/terpendek lebih pintar — kata **belum di-index** diprioritaskan
-- Semua achievement kini jadi **toast** (bukan popup besar)
-- Tampilan lebih bersih + **responsif di layar kecil / split-screen**
+- ⚡ **Buka ~5× lebih cepat** — kamus cadangan di-cache antar-sesi.
+- 🔎 **Pencarian lebih ngebut** — indeks biner untuk Awalan / Akhiran / Awalan+Akhiran.
+- 🏁 **Mode Kompe + Template Akhiran** — kelola daftar ending Normal & Brutal, "Pakai semua" sekaligus.
+- 🧠 **Trap Bar (Otak Strategi)** — sorot kata jebakan terbaik untuk awalan saat ini.
+- 🔤 **A-Z Bar + Catatan A-Z** — persen ketuntasan, bar gradien, serta tanda warna & keterangan per huruf.
+- 📚 **Kamus Cadangan** kini bisa diseleksi (`↑`/`↓`), di-index (`Home`) & ditandai DiCoba (`Shift+Home`).
+- 🛡️ **Data lebih tahan** — penyimpanan atomik & pemulihan otomatis dari file progres yang korup.
 
-➡️ Detail lengkap di **[catatan rilis](https://github.com/caraphelina/quantumchain-download/releases/latest)**.
+➡️ Riwayat lengkap tiap versi ada di **[CHANGELOG.md](CHANGELOG.md)**.
 
 ## 🐞 Lapor Bug / Masukan
 
